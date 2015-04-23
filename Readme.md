@@ -1,7 +1,7 @@
 MF - izvorna koda aplikacij v MFERAC
 ------------------------------------
 Zavrnjeno, 11. toèka 6. èlena, to je, "podatek [...] sestavljen v zvezi z notranjim delovanjem oziroma dejavnostjo organov, in bi njegovo razkritje povzroèilo motnje pri delovanju oziroma dejavnosti organa". 
-Seveda ne smem dobit kode, ker bi potem ogrozil varnost sistema MFERAC, ki je v bistvu [edino] (http://skupnostobcin.si/wp-content/uploads/2015/02/UVAJANJE-SISTEMA-MFERAC-V-OB%C4%8CINE-v1-6-2.pdf) kar drži državo pokonci.
+Seveda ne smem dobit kode, ker bi potem ogrozil varnost sistema MFERAC, ki je v bistvu [edino kar drži državo pokonci]( http://skupnostobcin.si/wp-content/uploads/2015/02/UVAJANJE-SISTEMA-MFERAC-V-OB%C4%8CINE-v1-6-2.pdf ) .
 Aja, to naj bi storil z vdiranjem, krajo, brisanjem, zlorabo podatkov, ipd. 
 Z drugimi besedami, pravijo da bom, èe dobim te podatke, izvajal kazniva dejanja.
 Kako ... žaljivo.
